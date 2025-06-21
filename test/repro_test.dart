@@ -19,8 +19,6 @@ void main() {
         '$testPkg|$testLib.dart': '''
 import 'package:repro/repro.dart';
 
-part '$testLib.g.dart';
-
 @A()
 const b = 0;
 '''
