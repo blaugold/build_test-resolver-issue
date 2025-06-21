@@ -6,7 +6,7 @@ import 'package:source_gen/source_gen.dart';
 import 'package:test/test.dart';
 
 void main() {
-  test('debug', () async {
+  test('repro', () async {
     const testPkg = 'pkg';
     const testLib = 'lib';
 
